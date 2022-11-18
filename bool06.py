@@ -7,6 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    b= a%2 == False
+    b = a%2 == False
     return b
 print(main(8))
