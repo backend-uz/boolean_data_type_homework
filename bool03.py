@@ -5,6 +5,7 @@ def main(b):
     Returns:
         bool
     """
+    
     # Write your code here
     a = b == True
     return a
